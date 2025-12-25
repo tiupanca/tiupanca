@@ -8,4 +8,4 @@ A comprehensive proposal and proof-of-concept for enabling Discord overlay syste
 - ⚡ <2% performance overhead
 - 🔒 Security-first architecture
 
-[View Project →](link-to-repo)
+[View Project →]([link-to-repo](https://github.com/tiupanca/discord-overlay-enhancement))
