@@ -1,16 +1,16 @@
 <div align="center">
 
   <a href="https://alsobox.com.br">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=SYSTEM_STATUS%3A+ONLINE;ENGINEERING+HIGH+PERFORMANCE;ALSOBOX+%7C+OUT+OF+THE+BOX;CODING+THE+FUTURE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=SYSTEM_STATUS%3A+ONLINE;ENGINEERING+HIGH+PERFORMANCE;ALSOBOX+%7C+OUT+OF+BOX;CODING+THE+FUTURE" alt="Typing SVG" />
   </a>
 
-  <img src="https://raw.githubusercontent.com/platane/platane/03de53267d33d98be3895e6912384a60b943d67f/wave.svg" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
   <br/><br/>
 
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   <span style="font-size: 20px; font-weight: bold; color: #fff;"> ARQUITETURA DE SOFTWARE & SOLUÇÕES CRÍTICAS </span>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/nextdotjs/white"></code>
 
   <br/><br/>
   
